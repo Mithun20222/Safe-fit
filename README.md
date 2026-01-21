@@ -102,3 +102,6 @@ This project is open for learning, academic use, and research purposes.
 
 Demo
 https://drive.google.com/file/d/1qOGTfLUYuJ50gstK8vR3eZCe-cBDzhBj/view?usp=sharing
+
+
+For the updated version of Safe Fit, refer to the safe-fit-updated repo
