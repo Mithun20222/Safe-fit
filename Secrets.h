@@ -1,4 +1,5 @@
-#define WIFI_SSID "Rev"
-#define WIFI_PASSWORD "rrrrrrrr"
-#define SUPABASE_URL "https://ntwqxgzcmwvvrptctetx.supabase.co"
-#define SUPABASE_ANON_KEY "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im50d3F4Z3pjbXd2dnJwdGN0ZXR4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjE0OTc2MTIsImV4cCI6MjA3NzA3MzYxMn0.eZxhnpMEY6Lhs5e5XvXYKkS7Dol5Ls5gnXjbeTIeY00"
+#define WIFI_SSID "wifi name"
+#define WIFI_PASSWORD "wifi pass"
+#define SUPABASE_URL "https://urlvdsvdsv.supabase.co"
+
+#define SUPABASE_ANON_KEY "anon key"
