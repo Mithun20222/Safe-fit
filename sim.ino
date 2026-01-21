@@ -7,12 +7,12 @@
 #include <ESP8266HTTPClient.h>
 
 // WiFi Credentials
-const char* ssid = "Arise";
-const char* password = "123abc56";
+const char* ssid = "wifi ssid";
+const char* password = "wifi pass";
 
 // Supabase Configuration
-const char* supabase_url = "https://gpnlthxqakaahlmikvmv.supabase.co/rest/v1/sensordata";
-const char* supabase_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdwbmx0aHhxYWthYWhsbWlrdm12Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTExMDU0MzYsImV4cCI6MjA2NjY4MTQzNn0.dgLYGCdzedIRssoq6ucnAdk-wj7S0d3dvu7uHz2OA6w";
+const char* supabase_url = "url";
+const char* supabase_key = "anon key";
 
 // MPU6050 Accelerometer/Gyroscope
 const int MPU_addr = 0x68;
