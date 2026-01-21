@@ -15,7 +15,7 @@ const int buttonPin = D3;
 unsigned long lastPress = 0;
 int pressCount = 0;
 const unsigned long doublePressGap = 500;
-String phoneNumber = "+917337426334"; // your target SMS number
+String phoneNumber = "ur mobile number"; // your target SMS number
 
 // === MPU6050 ===
 const int MPU_addr = 0x68;
